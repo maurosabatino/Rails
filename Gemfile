@@ -2,9 +2,11 @@ source 'http://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.8'
+gem 'rails', '~> 4.1.8'
 # Use postgresql as the database for Active Record
 gem 'pg'
+# Bootsrap
+gem 'bootstrap-sass',       '3.3.5'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
