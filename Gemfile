@@ -5,6 +5,8 @@ source 'http://rubygems.org'
 gem 'rails'
 # Use postgresql as the database for Active Record
 gem 'pg'
+#secure password
+gem 'bcrypt'
 # Bootsrap
 gem 'bootstrap-sass'
 # Use SCSS for stylesheets
